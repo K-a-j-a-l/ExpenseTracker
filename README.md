@@ -1,8 +1,16 @@
-# React + Vite
+## Expense Tracker App
+This is an Expense Tracker web application built using Tailwind CSS and ReactJS. The application allows users to track their expenses, view, edit, and delete them, as well as edit their budgets.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+**1. Track Expenses:** Users can add new expenses with details such as name, amount, category, and date.
+**2. View Expenses:** Users can view a list of all their expenses.
+**3. Edit Expenses:** Users can edit the details of any expense.
+**4. Delete Expenses:** Users can delete any expense from the list.
+**5. Edit Budgets:** Users can set and edit their budgets for different categories.
+# Technologies Used
+**ReactJS:** A JavaScript library for building user interfaces.
+**Tailwind CSS:** A utility-first CSS framework for styling the application.
+**Local Storage:** For storing user data persistently in the browser.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Demo
+<a>https://webexpensetrackerapp.netlify.app/</a>
